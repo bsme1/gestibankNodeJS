@@ -1,0 +1,50 @@
+[
+    {
+        "nom": "Ben Sassi",
+        "prenom":"Meriem",
+        "email":"bsm@gestibank.com",
+        "tel":"0635196565",
+        "matricule":"555118",
+        "motdepasse":"3333",
+        "role":"AGENT"
+
+    },
+    {
+        "nom": "Bally",
+        "prenom":"Claudine",
+        "email":"bc@gestibank.com",
+        "tel":"0389895546",
+        "motdepasse":"2222",
+        "role":"CLIENT",
+        "status": "EN ATTENTE",
+        "typedecompte": "CSD"
+        
+    },
+    {
+        "nom": "Ben Sassi",
+        "prenom":"Mongi",
+        "email":"bsmm@gestibank.com",
+        "tel":"0995632687",
+        "motdepasse":"3333",
+        "role":"CLIENT" , 
+        "status": "VALIDE",
+        "typedecompte": "PE"
+    },
+    {
+        "nom": "Ben Ayed",
+        "prenom":"Hajer",
+        "email":"bah@gestibank.com",
+        "tel":"0799987899",
+        "matricule":"567879",
+        "motdepasse":"9999",
+        "role":"AGENT" 
+    },
+    {
+        "nom": "Bouchiba",
+        "prenom":"Khaled",
+        "email":"bk@gestibank.com",
+        "tel":"0788836571",
+        "motdepasse":"8888",
+        "role":"ADMIN" 
+    }
+]
